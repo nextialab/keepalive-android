@@ -2,7 +2,7 @@
     <string name="app_name">Keep Alive</string>
     <string name="on">ON</string>
     <string name="period">Period:</string>
-    <string name="period_placeholder">5m</string>
+    <string name="period_placeholder">0</string>
     <string name="save">Save</string>
     <string name="url">URL to hit:</string>
     <string name="url_placeholder">https://google.com</string>

@@ -34,7 +34,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/period"
-        android:hint="@string/period_placeholder" />
+        android:hint="@string/period_placeholder"
+        android:inputType="number" />
 
     <Button
         android:layout_width="wrap_content"
@@ -42,7 +43,7 @@
         android:text="@string/save"
         android:id="@+id/save"
         android:onClick="onSave"
-        android:enabled="false" />
+        android:enabled="true" />
 
     <Switch
         android:layout_width="wrap_content"
